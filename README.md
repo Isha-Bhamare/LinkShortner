@@ -13,7 +13,7 @@ Welcome to the Link Shortener project! This application allows users to convert 
 
 Watch the demo video to see the Link Shortener project in action:
 
-[![Watch the video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://drive.google.com/file/d/1Mm_eaMo2909m17dzRW-LPNhQ3cJADFEi/view?usp=sharing)
+[![Watch the video](https://img.icons8.com/ios-filled/50/000000/video.png)](https://drive.google.com/file/d/1Mm_eaMo2909m17dzRW-LPNhQ3cJADFEi/view?usp=sharing)
 
 Click the video above or [click here](https://drive.google.com/file/d/1Mm_eaMo2909m17dzRW-LPNhQ3cJADFEi/view?usp=sharing) to watch the full demo on Google Drive.
 
